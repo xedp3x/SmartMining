@@ -1,0 +1,7 @@
+*
+!.gitignore
+!mods/*
+!mods
+!config/*
+!config
+!smart_moving_options.txt
