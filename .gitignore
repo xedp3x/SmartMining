@@ -4,4 +4,6 @@
 !mods
 !config/*
 !config
+!bin/*
+!bin
 !smart_moving_options.txt
